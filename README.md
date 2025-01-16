@@ -1,6 +1,6 @@
 # url-shortener
 
-Shorten your URLs with a 64-bit hash string of 7 characters.
+*Shorten your URLs with a 64-bit hash string of 7 characters.
 Save your URLs for later use.
 Delete or edit your URLs anytime.
 View analytics such as the number of clicks and the browser type.
